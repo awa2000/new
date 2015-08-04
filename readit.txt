@@ -1,3 +1,4 @@
 something never use
 but the other thing always be used
 now i'm back!!
+git has a mutable index called stage
