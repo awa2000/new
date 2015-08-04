@@ -3,3 +3,4 @@ but the other thing always be used
 now i'm back!!
 git has a mutable index called stage
 you know how the time fly
+only yesterday was the separater
